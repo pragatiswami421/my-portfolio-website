@@ -10,6 +10,20 @@ This portfolio showcases my introduction, technical skills, and developer journe
 
 🔗 **Portfolio Website:** [https://pragatiswami421.github.io/my-portfolio-website/](https://pragatiswami421.github.io/my-portfolio-website/)
 
+## 📸 Portfolio Preview
+
+### 1. Full Portfolio Preview
+![Portfolio Preview 1](1portfolio-preview.png)
+
+### 2. Portfolio Screenshot
+![Portfolio Preview 2](2portfolio-preview.png)
+
+### 3. Projects / Skills Preview
+![Portfolio Preview 3](3portfolio-preview.png)
+
+### 4. Additional Preview
+![Portfolio Preview 4](4portfolio-preview.png)
+
 ## 🚀 Features
 
 - Clean and modern user interface
